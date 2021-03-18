@@ -1,7 +1,7 @@
 @inproceedings{haefner2019iccv,
  title = {Variational Uncalibrated Photometric Stereo under General Lighting},
- author = {B. Haefner and Z. Ye and M. Gao and T. Wu and Y. Quéau and D. Cremers},
- booktitle = {International Conference on Computer Vision (ICCV)},
+ author = {B. Haefner and Z. Ye and M. Gao and T. Wu and Y. Qu\'eau and D. Cremers},
+ booktitle = {{International Conference on Computer Vision (ICCV)}},
  year = {2019},
  keywords = {3d-reconstruction,photometry,variational},
 }

@@ -1,8 +1,0 @@
-@misc{gao2020isometric,
-      title={Isometric Multi-Shape Matching}, 
-      author={Maolin Gao and Zorah L\"ahner and Johan Thunberg and Daniel Cremers and Florian Bernard},
-      year={2020},
-      eprint={2012.02689},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}

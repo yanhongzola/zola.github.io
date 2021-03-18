@@ -1,0 +1,8 @@
+@inproceedings{gao2021multi,
+ title = {Isometric Multi-Shape Matching},
+ author = {M Gao and Z Lähner and J Thunberg and D Cremers and F Bernard},
+ year = {2021},
+ booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+ keywords = {Shape Analysis, Geometry Processing, Shape Correspondence, Multi Shape Matching},
+ award = {Oral Presentation},
+}

@@ -1,8 +1,0 @@
-@inproceedings{demmel2020distributed,
- author = {N. Demmel and M. Gao and E. Laude and T. Wu and D. Cremers},
- title = {Distributed Photometric Bundle Adjustment},
- booktitle = {{International Conference on 3D Vision (3DV)}},
- year = {2020},
- award = {Oral Presentation},
- keywords = {photometric-bundle-adjustment, slam, structure-from-motion, direct-method, distributed-optimization, mapping, splitting-method, penalty-method, loop-closure, odometry, consensus-optimization, dpba, vslam},
-}
